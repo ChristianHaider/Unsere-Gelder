@@ -1,10 +1,6 @@
 # Unsere Gelder
 
-Die ist die Heimatbasis des Projekts **Unsere Gelder**.
-
-Die Webseite [unsere-gelder.de](https://unsere-gelder.de) visualisiert öffentliche Haushalte.
-
-Daten, Texte und andere Resourcen des Projekts sind hier.
+Die Webseite [unsere-gelder.de](https://unsere-gelder.de) visualisiert öffentliche Haushalte. Die Heimatbasis des Projekts ist hier. Alle Daten, Texte und andere Resourcen des Projekts werden hier gesammelt.
 
 Das Programm ist in [VisualWorks](http://www.cincomsmalltalk.com/main/products/visualworks/) geschrieben und ist im [Public Store von Cincom](http://www.cincomsmalltalk.com/main/community/product-portal/store-repository/) als Bundle mit dem Namen **{UnsereGelder Projekt}** frei verfügbar.
 
